@@ -1,0 +1,3 @@
+[submodule "src/ibex"]
+	path = src/ibex
+	url = https://github.com/lowRISC/ibex
